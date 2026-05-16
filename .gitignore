@@ -32,7 +32,7 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
-# Language server cache
+# Language Server cache
 *.csproj.lscache
 
 # ASP.NET Scaffolding
