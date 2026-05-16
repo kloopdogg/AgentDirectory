@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AgentDirectory.Api/AgentDirectory.Api.csproj" />
+  <Project Path="AgentDirectory.Data/AgentDirectory.Data.csproj" />
+</Solution>
